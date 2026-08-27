@@ -1,1 +1,1 @@
-﻿# This is repo contains tasks belong to ITI scholarship track of Business Intelligence
+﻿# This repo contains tasks belong to ITI scholarship track of Business Intelligence
