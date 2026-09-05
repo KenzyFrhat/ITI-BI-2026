@@ -1,0 +1,31 @@
+,Cleaning Log — fill one row per decision,,,
+,,,,
+,,,,
+Column affected,Problem observed,Rows affected,Action taken,Rule / justification
+student_id,duplicated data,11,remove duplication,duplicate could pprovide an unfair skewness in data 
+branch,Inconsistent categories,10,normalize names ,Inconsistent categories provide noise 
+track,Inconsistent categories,13,normalize names ,Inconsistent categories provide noise 
+gender,Inconsistent categories,12,normalize names ,Inconsistent categories provide noise 
+transport,Inconsistent categories,8,normalize names ,Inconsistent categories provide noise 
+favorite_sport,Inconsistent categories,13,normalize names ,Inconsistent categories provide noise 
+AGE,invalied value,4,REMOVED, age >45 or age <17 
+study_hours_week,invalied value,3,fix the typo,study_hours_week out side range
+age,num stored as a unknown ,2, repllace unknown with the most common,it is the most likely  age 
+study_hours_week,num stored as a text ,6,remove thhe word hour,needed to convert the age to numerical col
+study_hours_week,num stored as a text ,6,Change missing to NULL ,needed to convert the age to numerical col
+study_hours_week,WRONG INPUT ,3,FIXED THE TYPO REMOVING  - OR AN EXTRA ZERO ,FIXED THE TYPO REMOVING  - OR AN EXTRA ZERO 
+commute_minutes,num stored as a text ,8,remove min,needed to convert the age to numerical col
+sleep_hours,impossible values ,4,removed,out of range 
+satisfaction_1to5,impossible values ,3,replace with logical score,if some wone gives you a higher score than the perfect it mean perfect so i converted the 6 and 7 to 5 
+satisfaction_1to5,impossible values ,1,removed,? has no meaning  amd it is an impossiple value 
+has_laptop,Inconsistent categories,9,normalize names ,Inconsistent categories provide noise 
+pets_at_home,impossible values ,1,removed ,out of range 
+pets_at_home,impossible values ,2,remove the extra negative,it is most likly a typo 2 instate of -2
+favorite_sport,handeling the nullls ,27,fill null with no sport,null have the same meaning as no sport -no sport just look better
+age,handeling the nullls ,2,fill null with the most common,it is the most likely  age 
+study_hours_week,handeling the nullls ,9,fill null with the average between the mean and mediam,it is the most likely  study hours  
+satisfaction_1to5,handeling the nullls ,6,fill null with the most common,it is the most likely  it is the most likely score0 
+final_score,"use of , instate of .",5,"replace the , with .",need to convert the data to float
+final_score,out of range ,1,remove the exrtra typo at the end ,999 most likly 99 
+final_score,out of range ,2,removed ,out of range 
+final_score,fill null,5,fill null with the average between the mean and mediam,the most likly correct score

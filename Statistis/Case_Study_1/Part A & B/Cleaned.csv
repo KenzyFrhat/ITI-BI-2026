@@ -1,0 +1,250 @@
+student_id,branch,track,gender,age,study_hours_week,commute_minutes,sleep_hours,projects_submitted,satisfaction_1to5,has_laptop,transport,pets_at_home,favorite_sport,final_score
+ITI-1031,cairo,data science,m,21,16.5,34.1,5.5,2,3,yes,car,0.0,swimming,79.3
+ITI-1117,assiut,data science,f,29,25.1,5.0,6.6,3,4,yes,metro,1.0,football,91.7
+ITI-1080,cairo,data science,m,25,14.1,73.2,7.7,0,4,yes,bus,0.0,,79.3
+ITI-1128,cairo,web development,f,25,5.0,13.7,6.3,2,4,yes,metro,1.0,,90.6
+ITI-1197,menoufia,web development,m,25,19.9,17.2,6.9,3,3,no,car,0.0,,86.8
+ITI-1138,cairo,ui/ux,m,22,8.5,29.6,5.2,4,2,yes,microbus,1.0,running,59.1
+ITI-1210,cairo,data science,m,21,20.4,56.1,6.2,3,5,yes,bus,0.0,football,92.5
+ITI-1046,cairo,data science,f,23,14.0,51.7,7.4,3,3,yes,bus,3.0,football,72.6
+ITI-1159,assiut,data science,m,20,17.6,21.8,6.1,5,4,yes,walk,1.0,swimming,88.6
+ITI-1248,alexandria,data science,m,22,18.7,15.0,7.3,4,4,no,microbus,0.0,basketball,84.9
+ITI-1184,mansoura,web development,f,23,12.2,58.2,7.3,7,3,yes,microbus,2.0,,71.9
+ITI-1042,cairo,data science,m,27,21.9,22.8,6.7,6,5,yes,bus,0.0,basketball,87.7
+ITI-1228,alexandria,web development,f,20,16.52672064777328,15.7,6.1,2,5,yes,car,0.0,football,55.6
+ITI-1083,cairo,data science,m,23,12.3,39.2,6.3,5,5,yes,bus,0.0,running,78.6
+ITI-1166,alexandria,web development,m,26,13.1,63.8,7.9,1,5,yes,bus,0.0,,74.3
+ITI-1195,mansoura,ui/ux,f,25,14.7,13.6,6.9,4,3,yes,bus,0.0,,77.2
+ITI-1227,alexandria,web development,m,22,16.6,59.1,7.5,2,3,yes,bus,0.0,basketball,66.8
+ITI-1147,cairo,data science,f,20,18.6,44.3,7.0,6,2,yes,metro,0.0,football,83.7
+ITI-1105,alexandria,web development,f,25,25.9,22.4,7.1,4,3,yes,bus,0.0,running,87.4
+ITI-1061,assiut,data science,m,23,24.3,5.0,6.0,5,5,no,metro,1.0,football,91.6
+ITI-1222,cairo,data science,m,21,21.2,30.3,7.2,6,5,yes,walk,0.0,football,90.0
+ITI-1109,menoufia,data science,m,23,9.5,43.9,6.6,3,5,yes,microbus,1.0,basketball,77.0
+ITI-1047,cairo,data science,f,22,6.4,17.1,7.0,4,3,yes,metro,0.0,football,66.9
+ITI-1043,cairo,ui/ux,f,24,13.7,111.7,6.9,1,3,yes,bus,2.0,,69.4
+ITI-1186,cairo,embedded systems,m,21,18.3,66.4,8.7,4,3,yes,bus,0.0,,85.7
+ITI-1010,menoufia,data science,f,24,25.7,10.8,6.1,3,4,yes,walk,2.0,,80.3
+ITI-1023,menoufia,web development,m,24,21.5,8.4,7.0,7,5,yes,bus,1.0,,91.7
+ITI-1200,alexandria,web development,m,23,16.52672064777328,35.2,6.6,3,3,yes,walk,1.0,football,75.3
+ITI-1110,mansoura,web development,f,20,9.3,31.0,6.7,1,4,no,car,0.0,running,74.6
+ITI-1025,mansoura,data science,m,20,17.7,43.8,6.8,7,4,yes,walk,0.0,swimming,77.2
+ITI-1114,mansoura,data science,f,29,18.8,16.2,5.7,0,3,no,metro,1.0,running,76.6
+ITI-1069,cairo,ui/ux,m,24,16.5,83.0,8.1,2,4,yes,metro,0.0,,90.0
+ITI-1225,mansoura,data science,m,25,17.9,12.2,6.3,3,4,yes,bus,0.0,swimming,84.2
+ITI-1253,cairo,ui/ux,f,28,9.8,27.2,7.8,2,2,yes,microbus,0.0,running,71.0
+ITI-1007,alexandria,embedded systems,m,24,19.7,31.9,7.6,1,4,yes,bus,0.0,running,90.3
+ITI-1121,cairo,data science,f,23,12.7,11.6,6.0,5,2,no,microbus,0.0,football,78.3
+ITI-1068,menoufia,data science,m,25,16.6,44.1,6.6,3,5,no,bus,0.0,football,79.5
+ITI-1120,assiut,data science,f,21,14.1,18.5,8.1,3,5,yes,car,0.0,football,71.9
+ITI-1119,cairo,embedded systems,f,25,2.0,50.1,8.0,3,4,no,bus,3.0,running,80.2
+ITI-1026,alexandria,cyber security,m,21,14.8,9.7,5.6,0,4,no,car,1.0,,64.2
+ITI-1126,cairo,cyber security,f,24,18.6,74.9,5.6,3,3,yes,walk,0.0,swimming,99.0
+ITI-1020,cairo,web development,f,24,19.0,133.7,6.1,2,3,yes,bus,1.0,football,68.1
+ITI-1078,alexandria,web development,m,28,11.0,78.0,8.5,1,1,yes,walk,2.0,basketball,74.5
+ITI-1217,cairo,web development,f,28,9.6,116.1,6.5,2,4,yes,bus,0.0,running,72.5
+ITI-1091,mansoura,data science,f,21,11.9,14.7,7.1,3,5,yes,metro,0.0,swimming,69.6
+ITI-1209,alexandria,data science,f,22,20.1,66.6,5.6,3,2,yes,metro,0.0,volleyball,62.1
+ITI-1094,cairo,cyber security,f,23,11.8,27.9,8.1,5,2,yes,bus,0.0,football,70.0
+ITI-1181,assiut,data science,m,22,11.3,11.8,7.1,6,4,yes,microbus,1.0,football,82.1
+ITI-1016,cairo,ui/ux,m,25,9.2,89.5,6.6,3,4,no,metro,0.0,basketball,67.6
+ITI-1153,cairo,cyber security,f,28,18.1,37.2,4.9,1,2,yes,metro,2.0,running,68.9
+ITI-1233,alexandria,web development,f,23,20.0,26.2,5.4,4,4,yes,bus,0.0,,97.4
+ITI-1251,menoufia,cyber security,m,25,13.4,30.7,6.1,7,4,yes,metro,2.0,swimming,63.9
+ITI-1116,menoufia,web development,f,24,12.4,15.6,8.9,5,3,yes,bus,0.0,football,71.0
+ITI-1034,menoufia,data science,f,20,21.2,30.1,4.9,3,4,yes,walk,0.0,running,80.4
+ITI-1185,menoufia,embedded systems,f,23,17.2,29.5,6.4,5,4,yes,metro,2.0,football,87.9
+ITI-1143,mansoura,ui/ux,f,24,8.8,39.9,5.9,2,3,yes,metro,3.0,football,74.3
+ITI-1198,mansoura,ui/ux,f,23,13.7,13.7,7.0,2,4,no,bus,1.0,football,71.1
+ITI-1038,cairo,embedded systems,m,25,12.4,71.6,6.6,3,3,yes,car,1.0,basketball,74.3
+ITI-1017,cairo,cyber security,m,23,21.5,59.6,8.5,8,3,yes,walk,0.0,,85.9
+ITI-1076,mansoura,cyber security,m,29,6.8,17.0,6.6,4,4,yes,bus,0.0,,65.4
+ITI-1149,assiut,web development,f,25,18.1,44.5,7.6,7,4,yes,bus,1.0,,75.7
+ITI-1011,menoufia,data science,f,23,15.6,22.4,6.5,2,4,yes,car,0.0,,78.1
+ITI-1234,menoufia,data science,m,23,16.52672064777328,39.3,7.6,3,4,no,metro,1.0,football,74.8
+ITI-1067,menoufia,ui/ux,f,22,18.1,59.3,8.3,5,2,yes,bus,2.0,football,83.8
+ITI-1254,assiut,cyber security,f,24,16.8,41.4,8.6,2,3,yes,car,0.0,football,82.6
+ITI-1226,alexandria,web development,f,29,14.8,27.2,6.0,1,4,yes,car,1.0,,75.2
+ITI-1183,mansoura,web development,m,27,23.8,32.6,6.1,8,2,yes,walk,0.0,,93.3
+ITI-1074,alexandria,data science,m,24,19.4,12.8,8.8,2,5,yes,metro,0.0,,90.1
+ITI-1019,cairo,data science,m,23,14.7,54.8,5.7,2,3,yes,metro,0.0,,77.9
+ITI-1102,cairo,ui/ux,f,24,13.1,25.1,4.6,1,4,yes,microbus,0.0,,68.4
+ITI-1196,cairo,embedded systems,m,21,21.2,16.1,8.9,4,3,yes,microbus,1.0,,65.3
+ITI-1113,cairo,cyber security,f,21,20.4,120.2,8.2,5,2,no,bus,0.0,football,80.2
+ITI-1171,mansoura,data science,m,21,10.5,79.7,9.1,2,5,no,metro,0.0,basketball,57.6
+ITI-1087,menoufia,ui/ux,f,20,16.8,29.1,6.8,1,2,yes,walk,0.0,football,73.5
+ITI-1056,cairo,data science,m,21,23.7,37.9,5.9,4,5,yes,microbus,0.0,basketball,90.5
+ITI-1201,cairo,ui/ux,f,23,11.4,16.6,6.0,3,3,no,bus,0.0,football,72.5
+ITI-1039,alexandria,embedded systems,m,20,11.3,27.9,7.9,4,4,yes,car,0.0,running,75.3
+ITI-1155,menoufia,cyber security,f,23,15.6,20.2,6.6,2,5,yes,car,3.0,volleyball,72.4
+ITI-1085,cairo,data science,m,25,25.0,31.4,5.8,3,2,no,microbus,0.0,,85.2
+ITI-1252,cairo,cyber security,f,22,17.9,87.2,6.7,6,3,yes,microbus,0.0,running,92.7
+ITI-1093,cairo,data science,m,27,19.5,69.4,6.7,3,5,yes,bus,2.0,football,82.1
+ITI-1202,cairo,web development,m,22,16.8,27.7,7.8,5,2,yes,bus,0.0,football,91.3
+ITI-1127,cairo,web development,f,23,17.6,23.1,6.9,2,5,yes,metro,0.0,,80.5
+ITI-1125,assiut,data science,m,23,18.5,15.6,8.9,2,5,yes,car,0.0,volleyball,80.2
+ITI-1079,alexandria,embedded systems,m,23,23.6,21.1,7.8,2,5,no,car,0.0,football,84.3
+ITI-1182,alexandria,data science,m,26,15.5,68.8,8.5,3,2,yes,bus,1.0,volleyball,84.5
+ITI-1112,assiut,web development,m,21,20.3,50.0,5.3,2,4,yes,bus,0.0,,77.7
+ITI-1230,cairo,embedded systems,m,24,20.9,55.7,8.1,3,5,yes,bus,0.0,football,82.5
+ITI-1259,menoufia,data science,m,28,9.3,26.0,6.3,1,2,yes,metro,4.0,football,58.5
+ITI-1032,cairo,embedded systems,m,23,20.5,62.9,5.1,3,5,yes,microbus,2.0,volleyball,84.6
+ITI-1211,alexandria,web development,f,25,13.1,10.1,6.0,0,5,yes,car,0.0,running,77.9
+ITI-1194,alexandria,web development,m,26,8.9,63.3,7.2,3,2,no,microbus,1.0,swimming,72.7
+ITI-1077,cairo,data science,m,23,16.3,62.4,4.4,6,5,yes,metro,0.0,football,71.7
+ITI-1148,cairo,data science,m,21,9.8,176.0,7.6,4,5,yes,bus,0.0,football,70.1
+ITI-1140,mansoura,web development,f,20,23.4,28.5,6.6,2,2,yes,metro,0.0,running,83.4
+ITI-1144,alexandria,ui/ux,m,27,11.6,,7.2,3,5,yes,bus,0.0,volleyball,78.5
+ITI-1097,cairo,data science,m,25,14.4,67.0,7.6,7,5,no,car,0.0,basketball,75.4
+ITI-1141,mansoura,cyber security,m,22,3.2,34.3,4.7,2,3,yes,car,3.0,running,66.2
+ITI-1174,cairo,embedded systems,m,23,9.5,18.0,7.6,3,3,yes,bus,0.0,running,74.4
+ITI-1075,alexandria,ui/ux,f,24,17.9,45.4,6.0,1,2,no,car,2.0,volleyball,70.9
+ITI-1118,alexandria,cyber security,m,21,21.7,13.1,7.8,6,3,yes,bus,0.0,basketball,90.2
+ITI-1030,cairo,cyber security,m,24,14.0,30.2,6.5,4,3,yes,metro,1.0,football,72.9
+ITI-1216,cairo,data science,m,27,22.2,70.9,6.5,4,4,yes,microbus,2.0,football,87.9
+ITI-1193,cairo,data science,f,24,17.4,66.8,8.0,3,3,yes,metro,0.0,running,86.3
+ITI-1235,cairo,cyber security,m,25,9.1,38.9,6.6,1,2,yes,car,2.0,,74.3
+ITI-1178,cairo,cyber security,f,23,24.2,74.4,7.1,3,5,yes,microbus,0.0,volleyball,80.2
+ITI-1062,mansoura,embedded systems,f,23,14.0,23.3,7.6,4,5,yes,walk,0.0,basketball,76.7
+ITI-1006,cairo,data science,f,25,16.1,87.6,7.4,0,2,no,car,0.0,basketball,69.7
+ITI-1057,mansoura,embedded systems,m,23,23.3,33.2,6.0,1,2,yes,bus,0.0,football,61.5
+ITI-1176,assiut,embedded systems,m,24,15.6,34.3,6.9,2,4,yes,car,2.0,,82.6
+ITI-1165,alexandria,ui/ux,f,20,17.8,15.2,6.8,5,4,no,bus,3.0,swimming,86.5
+ITI-1066,cairo,data science,m,20,16.1,55.7,5.9,0,4,no,walk,0.0,,76.6
+ITI-1158,cairo,web development,m,23,12.1,53.6,6.7,3,3,no,car,0.0,running,69.1
+ITI-1086,cairo,embedded systems,f,20,21.2,200.0,7.9,3,5,yes,bus,0.0,swimming,83.7
+ITI-1115,cairo,cyber security,f,23,25.2,25.6,5.3,1,3,yes,car,1.0,football,87.0
+ITI-1173,cairo,data science,f,25,19.0,132.0,8.9,3,4,no,metro,4.0,running,81.8
+ITI-1013,cairo,web development,f,26,16.52672064777328,9.0,6.8,4,2,yes,car,2.0,,67.3
+ITI-1036,alexandria,cyber security,m,26,20.7,11.8,7.2,3,3,yes,bus,0.0,football,83.6
+ITI-1133,alexandria,embedded systems,m,25,10.4,39.5,6.9,2,4,yes,bus,0.0,basketball,70.9
+ITI-1052,alexandria,web development,f,22,15.0,68.2,8.1,2,2,yes,metro,3.0,,75.2
+ITI-1096,menoufia,data science,m,27,24.8,29.3,7.0,4,4,yes,microbus,0.0,,93.0
+ITI-1168,alexandria,ui/ux,m,25,6.8,62.0,5.6,3,5,yes,metro,0.0,running,59.1
+ITI-1180,menoufia,web development,f,28,18.8,29.5,6.4,0,4,yes,metro,2.0,basketball,75.7
+ITI-1247,cairo,ui/ux,m,22,20.2,64.1,6.7,5,4,yes,metro,0.0,running,74.9
+ITI-1177,alexandria,data science,m,23,6.8,18.1,7.9,6,5,yes,bus,0.0,basketball,83.4
+ITI-1137,mansoura,data science,f,20,14.3,5.4,6.8,2,5,yes,car,2.0,basketball,67.3
+ITI-1027,mansoura,cyber security,m,22,18.2,16.1,5.7,5,4,yes,car,0.0,running,72.9
+ITI-1214,cairo,web development,m,22,16.2,13.4,8.1,2,4,yes,metro,0.0,football,98.8
+ITI-1142,assiut,web development,f,23,12.7,30.4,5.3,4,4,yes,car,0.0,swimming,68.7
+ITI-1160,alexandria,cyber security,m,23,18.1,43.1,8.7,8,2,yes,bus,0.0,,88.1
+ITI-1001,menoufia,cyber security,f,21,12.5,15.8,8.3,2,4,yes,metro,1.0,volleyball,75.8
+ITI-1232,alexandria,cyber security,m,25,12.8,52.2,6.4,2,3,yes,bus,3.0,swimming,74.0
+ITI-1101,cairo,data science,f,24,25.8,256.5,6.0,7,4,yes,car,0.0,volleyball,99.0
+ITI-1242,cairo,data science,f,22,20.0,37.2,7.6,1,5,yes,bus,0.0,football,88.3
+ITI-1203,alexandria,web development,m,26,21.0,48.0,3.8,1,3,yes,microbus,0.0,running,85.2
+ITI-1099,cairo,cyber security,m,21,12.9,29.6,6.9,3,4,yes,car,3.0,football,84.2
+ITI-1037,cairo,web development,f,25,17.4,26.1,6.4,2,5,no,bus,0.0,football,87.7
+ITI-1151,cairo,ui/ux,f,25,5.1,154.0,6.6,2,4,yes,metro,0.0,swimming,50.4
+ITI-1213,mansoura,embedded systems,m,25,16.6,11.1,5.4,1,3,no,bus,0.0,football,78.93381147540984
+ITI-1257,cairo,web development,m,25,19.2,39.3,6.8,3,3,yes,bus,4.0,football,85.6
+ITI-1012,cairo,data science,f,26,23.1,36.5,5.4,0,4,no,microbus,0.0,football,92.3
+ITI-1231,cairo,ui/ux,f,25,16.7,126.7,8.3,2,4,no,bus,2.0,football,69.2
+ITI-1028,alexandria,web development,m,25,20.5,,6.4,3,3,yes,bus,1.0,running,95.6
+ITI-1005,assiut,web development,f,23,22.9,36.9,6.4,3,3,yes,car,0.0,swimming,86.4
+ITI-1123,mansoura,web development,m,21,9.8,9.8,7.3,6,5,yes,car,0.0,football,91.8
+ITI-1033,mansoura,cyber security,f,23,16.5,66.6,6.7,6,4,yes,metro,0.0,running,77.0
+ITI-1205,assiut,web development,f,23,11.4,20.9,7.0,5,2,yes,metro,0.0,basketball,74.6
+ITI-1163,cairo,embedded systems,f,23,17.9,18.7,7.2,4,5,no,bus,0.0,football,73.4
+ITI-1169,alexandria,data science,m,23,15.3,26.6,4.0,5,4,no,metro,0.0,football,79.4
+ITI-1207,mansoura,data science,m,24,23.5,27.0,5.6,2,5,yes,metro,0.0,running,94.8
+ITI-1139,menoufia,data science,f,24,21.9,23.0,7.3,2,4,no,bus,0.0,football,97.3
+ITI-1063,mansoura,embedded systems,m,21,24.4,190.2,6.3,5,2,no,walk,0.0,running,85.6
+ITI-1136,assiut,web development,f,24,12.9,24.1,6.6,4,5,yes,metro,0.0,swimming,81.1
+ITI-1129,mansoura,embedded systems,f,23,12.6,21.0,7.0,2,3,yes,walk,0.0,football,77.6
+ITI-1244,cairo,web development,f,20,22.6,97.9,6.7,1,4,yes,microbus,0.0,football,80.7
+ITI-1071,menoufia,cyber security,m,22,19.3,209.8,7.0,6,3,yes,bus,0.0,,78.93381147540984
+ITI-1223,cairo,cyber security,f,26,9.3,54.1,7.0,3,3,yes,metro,0.0,running,78.93381147540984
+ITI-1065,alexandria,data science,f,25,23.8,25.9,5.0,2,3,yes,car,0.0,running,80.3
+ITI-1045,alexandria,web development,m,24,19.5,36.4,7.3,2,3,yes,metro,0.0,,88.2
+ITI-1187,assiut,web development,f,23,19.6,26.1,7.2,4,4,yes,car,0.0,,86.9
+ITI-1157,alexandria,data science,m,26,23.4,61.7,6.7,1,4,yes,bus,0.0,,95.6
+ITI-1041,alexandria,data science,f,24,8.1,35.0,6.2,4,4,yes,bus,0.0,football,69.2
+ITI-1124,cairo,embedded systems,m,25,20.8,9.8,9.3,2,3,yes,walk,1.0,football,99.9
+ITI-1154,assiut,ui/ux,m,22,4.5,11.0,6.6,2,3,yes,car,0.0,,67.4
+ITI-1024,mansoura,data science,m,28,14.4,29.4,6.4,2,3,yes,metro,1.0,basketball,83.9
+ITI-1218,cairo,ui/ux,m,26,11.6,67.7,6.2,4,5,yes,metro,1.0,swimming,80.0
+ITI-1082,assiut,cyber security,f,23,15.6,8.4,7.3,1,5,yes,car,1.0,football,83.2
+ITI-1040,cairo,ui/ux,m,22,16.5,43.3,7.6,2,3,yes,car,1.0,swimming,79.3
+ITI-1241,assiut,embedded systems,f,24,19.7,37.6,6.4,0,4,yes,car,0.0,basketball,85.9
+ITI-1048,cairo,data science,f,22,23.2,33.0,9.5,3,3,yes,bus,0.0,,100.0
+ITI-1095,assiut,data science,m,22,15.7,11.1,6.8,6,5,yes,bus,1.0,basketball,78.1
+ITI-1221,mansoura,ui/ux,m,20,6.7,44.8,6.3,1,3,yes,metro,2.0,football,67.2
+ITI-1237,assiut,web development,m,22,5.2,6.2,7.6,3,5,no,microbus,0.0,basketball,54.9
+ITI-1162,menoufia,data science,f,28,3.1,19.7,5.0,3,5,yes,bus,1.0,swimming,77.4
+ITI-1044,mansoura,data science,m,22,21.0,21.1,6.1,6,4,yes,metro,1.0,swimming,88.2
+ITI-1146,cairo,cyber security,m,24,18.4,70.6,6.8,1,2,no,car,0.0,swimming,81.4
+ITI-1191,cairo,ui/ux,f,21,12.5,37.2,4.2,7,5,yes,bus,0.0,football,71.7
+ITI-1212,mansoura,data science,f,23,16.52672064777328,60.3,6.9,2,5,yes,car,0.0,basketball,78.93381147540984
+ITI-1004,cairo,web development,f,23,19.7,105.8,7.0,2,3,yes,microbus,0.0,,78.5
+ITI-1106,cairo,data science,m,23,16.52672064777328,46.4,8.0,5,3,yes,bus,1.0,swimming,85.0
+ITI-1054,assiut,data science,m,28,27.4,,7.5,3,4,yes,bus,1.0,volleyball,100.0
+ITI-1134,menoufia,web development,f,20,21.0,15.0,7.3,6,3,yes,microbus,2.0,,77.0
+ITI-1002,mansoura,embedded systems,f,20,15.7,10.9,7.0,5,4,yes,car,0.0,football,79.7
+ITI-1224,mansoura,data science,f,23,16.52672064777328,9.4,5.9,0,4,yes,metro,0.0,football,78.6
+ITI-1104,cairo,embedded systems,m,26,14.2,121.4,5.1,4,2,no,car,1.0,swimming,68.5
+ITI-1050,menoufia,data science,m,23,22.8,16.1,7.5,0,3,no,bus,2.0,swimming,84.1
+ITI-1081,cairo,web development,f,24,11.0,17.5,5.8,3,2,yes,bus,0.0,volleyball,87.0
+ITI-1206,menoufia,cyber security,f,21,11.5,33.0,5.9,6,4,yes,car,0.0,football,64.0
+ITI-1035,alexandria,data science,m,25,27.4,66.4,7.1,4,4,yes,walk,0.0,,99.8
+ITI-1238,alexandria,data science,m,24,16.1,57.8,5.4,0,3,no,microbus,1.0,football,72.2
+ITI-1008,mansoura,data science,f,23,7.0,12.1,4.5,4,2,yes,microbus,0.0,basketball,69.6
+ITI-1172,mansoura,cyber security,m,24,11.6,46.0,6.5,2,4,yes,car,0.0,,76.9
+ITI-1199,alexandria,ui/ux,m,24,17.0,238.9,5.5,3,4,yes,bus,3.0,football,76.1
+ITI-1243,mansoura,data science,m,23,16.7,31.3,7.1,3,4,yes,bus,0.0,running,69.8
+ITI-1111,mansoura,cyber security,m,28,16.52672064777328,18.8,5.4,2,2,yes,metro,0.0,football,88.1
+ITI-1092,cairo,data science,f,21,16.8,,7.0,2,3,yes,walk,1.0,,71.2
+ITI-1084,menoufia,cyber security,m,21,12.8,23.7,6.4,4,5,yes,bus,0.0,football,73.7
+ITI-1130,assiut,ui/ux,m,23,12.3,17.4,5.8,3,3,yes,microbus,2.0,,81.7
+ITI-1053,alexandria,data science,f,24,17.8,25.1,6.9,2,4,no,metro,0.0,running,83.1
+ITI-1090,mansoura,data science,f,23,17.8,28.4,7.5,2,3,yes,car,0.0,,75.4
+ITI-1014,mansoura,web development,f,24,11.7,32.9,9.0,4,4,yes,bus,1.0,running,69.3
+ITI-1060,mansoura,ui/ux,m,20,17.1,17.6,8.9,5,2,yes,bus,2.0,,94.9
+ITI-1249,mansoura,web development,m,27,15.2,13.1,6.8,5,5,yes,metro,2.0,basketball,86.3
+ITI-1132,cairo,embedded systems,m,26,23.3,191.9,6.1,7,4,yes,microbus,2.0,football,74.3
+ITI-1018,cairo,web development,f,25,16.4,39.2,6.7,3,2,yes,walk,2.0,running,86.1
+ITI-1167,assiut,web development,f,24,21.6,21.3,7.5,4,3,yes,microbus,1.0,football,66.9
+ITI-1073,assiut,data science,m,22,16.52672064777328,58.4,7.1,4,5,yes,car,0.0,swimming,75.4
+ITI-1255,cairo,data science,m,25,13.4,79.3,6.3,3,4,yes,metro,1.0,,77.8
+ITI-1135,alexandria,web development,m,24,17.9,30.2,7.4,3,4,yes,metro,0.0,basketball,78.6
+ITI-1250,alexandria,cyber security,m,22,14.9,16.4,7.9,2,2,yes,metro,2.0,basketball,75.8
+ITI-1229,cairo,web development,f,30,20.0,62.8,5.3,2,3,no,metro,1.0,swimming,72.6
+ITI-1260,cairo,web development,m,21,16.1,46.8,6.2,4,4,yes,microbus,2.0,football,68.4
+ITI-1064,menoufia,web development,m,24,21.8,105.1,7.0,4,4,no,metro,0.0,swimming,87.0
+ITI-1055,menoufia,ui/ux,f,24,8.0,16.8,6.8,2,4,yes,walk,3.0,,73.3
+ITI-1108,mansoura,web development,f,20,16.8,25.0,6.0,5,4,no,bus,0.0,football,77.0
+ITI-1051,alexandria,web development,m,28,8.7,63.8,6.8,4,3,no,car,0.0,basketball,73.3
+ITI-1239,cairo,data science,m,21,20.1,65.5,6.8,2,4,yes,microbus,0.0,swimming,92.7
+ITI-1175,cairo,web development,f,25,20.2,42.6,6.8,6,2,yes,microbus,2.0,,76.6
+ITI-1240,menoufia,web development,m,23,10.2,23.1,6.8,2,4,yes,walk,0.0,football,74.6
+ITI-1190,assiut,data science,m,24,15.1,6.3,7.5,3,4,yes,car,0.0,football,78.93381147540984
+ITI-1015,alexandria,web development,m,20,2.0,25.2,6.9,1,4,yes,bus,0.0,football,53.3
+ITI-1208,cairo,web development,m,24,13.4,7.2,7.3,4,3,yes,metro,2.0,football,70.9
+ITI-1256,assiut,cyber security,m,25,18.5,26.9,6.8,2,4,no,metro,1.0,football,86.8
+ITI-1220,assiut,cyber security,m,23,15.1,36.6,6.8,3,4,yes,metro,0.0,swimming,85.3
+ITI-1170,cairo,ui/ux,m,22,12.2,44.8,8.5,4,4,yes,bus,2.0,football,77.1
+ITI-1059,alexandria,web development,m,21,14.5,13.2,9.5,3,3,yes,microbus,3.0,football,92.3
+ITI-1219,cairo,cyber security,m,21,16.1,92.0,6.8,1,5,yes,bus,1.0,running,70.0
+ITI-1049,cairo,data science,f,21,22.8,142.3,7.1,2,4,no,walk,1.0,basketball,85.3
+ITI-1089,alexandria,web development,m,20,20.5,25.9,8.2,5,3,yes,bus,0.0,swimming,94.1
+ITI-1236,alexandria,web development,f,26,19.1,34.8,7.6,4,3,yes,walk,0.0,running,83.7
+ITI-1022,alexandria,web development,f,22,19.5,110.8,5.9,8,4,yes,bus,2.0,basketball,70.7
+ITI-1058,assiut,embedded systems,m,24,15.2,24.0,8.7,2,4,yes,bus,4.0,,84.9
+ITI-1204,cairo,cyber security,m,21,26.4,50.4,6.8,4,2,yes,bus,2.0,basketball,100.0
+ITI-1161,cairo,web development,f,24,20.8,33.1,7.0,0,4,yes,bus,0.0,basketball,83.6
+ITI-1188,cairo,web development,f,27,27.8,38.1,6.5,2,4,yes,metro,2.0,running,100.0
+ITI-1192,cairo,ui/ux,f,23,21.1,,6.8,4,3,yes,bus,1.0,basketball,93.3
+ITI-1258,cairo,web development,f,21,20.7,36.3,4.5,4,4,yes,car,1.0,football,88.8
+ITI-1150,alexandria,ui/ux,m,26,17.0,19.4,5.6,2,3,no,bus,0.0,football,75.6
+ITI-1131,cairo,cyber security,m,23,23.1,89.2,6.4,3,2,yes,bus,1.0,,100.0
+ITI-1152,alexandria,ui/ux,f,25,7.5,95.1,9.0,3,4,no,car,0.0,,62.5
+ITI-1100,cairo,embedded systems,f,22,15.3,17.8,5.5,2,2,yes,walk,0.0,volleyball,74.4
+ITI-1088,assiut,embedded systems,f,23,22.3,70.0,6.7,2,2,yes,metro,0.0,swimming,84.4
+ITI-1215,menoufia,cyber security,m,20,7.5,58.0,7.0,4,4,yes,bus,1.0,volleyball,75.8
+ITI-1122,menoufia,ui/ux,m,28,16.4,25.5,5.2,1,4,no,bus,1.0,,65.6
+ITI-1103,alexandria,embedded systems,m,21,17.4,64.1,8.5,4,4,yes,car,0.0,basketball,81.9
+ITI-1021,cairo,web development,m,23,17.1,46.4,8.9,1,4,no,bus,3.0,football,89.4
+ITI-1189,mansoura,data science,m,26,12.9,,7.0,2,2,no,microbus,1.0,basketball,76.5
+ITI-1072,mansoura,embedded systems,m,25,24.7,34.1,8.5,4,5,yes,metro,3.0,running,96.4
+ITI-1107,assiut,data science,f,24,5.0,29.8,8.4,2,3,yes,bus,0.0,football,85.4

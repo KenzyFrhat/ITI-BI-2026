@@ -1,0 +1,272 @@
+student_id,branch,track,gender,age,study_hours_week,commute_minutes,sleep_hours,projects_submitted,satisfaction_1to5,has_laptop,transport,pets_at_home,favorite_sport,final_score
+ITI-1031,Cairo,Data Science,Male,21,16.5,34.1,5.5,2,3,Yes,Car,0,Swimming,79.3
+ITI-1117,Assiut,Data Science,Female,29,25.1 hours,5.0,6.6,3,4,Yes,Metro,1,Football,91.7
+ITI-1080,Cairo,Data Science,Male,25,14.1,73.2,7.7,0,4,Yes,Bus,0,,79.3
+ITI-1128,Cairo,Web Development,Female,25,-5,13.7,6.3,2,4,Yes,Metro,1,,90.6
+ITI-1197,Menoufia,Web Development,Male,25,19.9,17.2,6.9,3,3,No,Car,0,none,86.8
+ITI-1138,Cairo,UI/UX,Male,22,8.5,29.6,5.2,4,2,Yes,Microbus,1,Running,59.1
+ITI-1210,Cairo,Data Science,Male,21,20.4,56.1,6.2,3,5,Yes,Bus,0,Football,92.5
+ ITI-1046 ,Cairo,Data Science,Female,23,14.0,51.7,7.4,3,3,Yes,Bus,3,Football,72.6
+ITI-1159,Assiut,Data Science,Male,20,17.6,21.8,6.1,5,4,Yes,Walk,1,Swimming,88.6
+ITI-1248,Alexandria,Data Science,Male,22,18.7,15.0,7.3,4,4,No,Microbus,0,Basketball,84.9
+ITI-1184,Mansoura,Web Development,Female,23,12.2,58.2,7.3,7,3,1,Microbus,2,,71.9
+ITI-1042,cairo,Data Science,Male,27,21.9,22.8,6.7,6,5,Yes,Bus,0,Basketball,87.7
+ITI-1228,alexandria,Web Development,Female,20,,15.7,6.1,2,5,Yes,Car,0,Football,"55,6"
+ITI-1083,Cairo,Data Science,Male,23,12.3,39.2,6.3,5,5,Yes,Bus,0,Running,78.6
+ITI-1166,Alexandria,web development,Male,26,13.1 hours,63.8,7.9,1,5,Y,Bus,0,none,74.3
+ITI-1195,Mansoura,UI/UX,Female,25,14.7,13.6,6.9,4,3,Yes,Bus,0,,77.2
+ITI-1227,Alexandria,Web Development,Male,22,16.6,59.1,7.5,2,3,Yes,Bus,0,Basketball,66.8
+ITI-1147,Cairo,Data Science,Female,20,18.6,44.3,7.0,6,2,Yes,Metro,0,Football,83.7
+ITI-1105,Alexandria,Web Development,Female,25,25.9,22.4,7.1,4,3,Yes,bus,0,Running,87.4
+ITI-1061,Assiut,data science,Male,23,24.3,5.0,6.0,5,5,No,Metro,1,Football,91.6
+ITI-1222,Cairo,Data Science,Male,21,21.2,30.3,7.2,6,5,Yes,Walk,0,Football,90.0
+ITI-1109,Menoufia,Data Science,Male,23,9.5,43.9,6.6,3,5,Yes,Microbus,1,Basketball,77.0
+ITI-1047,Cairo,Data Science,Female,22,6.4,17.1,7.0,4,3,Yes,METRO,0,Football,66.9
+ITI-1043,Cairo,UI/UX,Female,24,13.7,111.7,6.9,1,3,1,Bus,2,,69.4
+ITI-1186,Cairo,Embedded Systems,Male,21,18.3,66.4,8.7,4,3,Yes,Bus,0,,85.7
+ITI-1010,Menoufia,Data Science,Female,24,25.7,10.8,6.1,3,4,Yes,Walk,2,No sport,80.3
+ITI-1023,Menoufia,Web Development,Male,24,21.5,8.4,7.0,7,5,Yes,Bus,1,none,91.7
+ITI-1200,Alexandria,Web Development,Male,23,,35.2,6.6,3,3,Yes,Walk,1,Football,75.3
+ITI-1110,Mansoura,Web Development,Female,20,9.3,31 min,6.7,1,4,No,Car,0,Running,74.6
+ITI-1025,Mansoura,Data Science,Male,20,17.7,43.8,6.8,7,4,Yes,Walk,0,Swimming,77.2
+ITI-1114,Mansoura,Data Science,Female,29,18.8,16.2,5.7,0,3,No,Metro,1,Running,76.6
+ITI-1069,Cairo,UI/UX,Male,24,16.5,83 min,8.1,2,4,Yes,Metro,0,,90.0
+ITI-1145,Menoufia,Web Development,Male,150,15.7,52.6,6.4,2,3,No,Bus,1,Swimming,85.1
+ITI-1225,Mansora,Data Science,Male,25,17.9,12.2,6.3,3,4,Yes,Bus,0,Swimming,84.2
+ITI-1253,Cairo,UI/UX,Female,28,9.8,27.2,7.8,2,2,Yes,micro bus,0,Running,71.0
+ ITI-1007 ,Alexandria,Embedded Systems,Male,24,19.7,31.9,7.6,1,4,Yes,Bus,0,Running,90.3
+ITI-1121,Cairo,Data Science,Female,23,12.7,11.6,6.0,5,2,No,Microbus,0,Football,78.3
+ITI-1068,Menoufia,Data Science,Male,25,16.6,44.1,6.6,3,5,No,Bus,0,Football,79.5
+ITI-1120,Assiut,Data Science,Female,21,14.1,18.5,8.1,3,5,Yes,Car,0,Football,71.9
+ ITI-1119 ,Cairo,Embedded Systems,Female,25,2.0,50.1,8.0,3,4,No,Bus,3,Running,80.2
+ITI-1026,Alexandria,Cyber Security,Male,21,14.8,9.7,5.6,0,4,No,Car,1,,64.2
+ITI-1126,Cairo,Cyber Security,Female,24,18.6,74.9,5.6,3,3,Yes,Walk,0,Swimming,999
+ITI-1245,Cairo,Data Science,Male,24,18.8,26.4,,1,3,Yes,Bus,60,Football,75.2
+ITI-1020,Cairo,Web Development,Female,24,19.0,133.7,6.1,2,3,Yes,Bus,1,Football,68.1
+ITI-1078,Alexandria,Web Development,Male,28,11.0,78.0,8.5,1,1,Yes,Walk,-2,Basketball,74.5
+ITI-1217,Cairo,Web Development,Female,28,9.6,116.1,6.5,2,4,Yes,Bus,0,Running,72.5
+ITI-1091,Mansoura,Data Science,Female,21,11.9,14.7,7.1,3,5,Yes,Metro,0,Swimming,69.6
+ITI-1209,Alexandria,Data Science,Female,22,20.1,66.6,5.6,3,2,Yes,Metro,0,Volleyball,62.1
+ITI-1094,Cairo,Cyber Security,Female,23,11.8,27.9,8.1,5,2,Yes,Bus,0,Football,70.0
+ITI-1181,Assiut,Data Science,Male,22,11.3,11.8,7.1,6,4,Yes,Microbus,1,Football,82.1
+ITI-1016,Cairo,UI/UX,Male,25,9.2,89.5,6.6,3,4,N,Metro,0,Basketball,67.6
+ITI-1153,Cairo,Cyber Security,Female,28,18.1,37.2,4.9,1,2,Yes,Metro,2,Running,68.9
+ITI-1233,Alexandria,Web Development,Female,23,20.0,26.2,5.4,4,4,Yes,Bus,0,none,97.4
+ITI-1251,Menoufia,Cyber Security,Male,25,13.4,30.7,6.1,7,4,Yes,Metro,2,Swimming,63.9
+ITI-1116,Menoufia,Web Development,Female,24,12.4,15.6,8.9,5,3,Yes,Bus,0,Football,71.0
+ITI-1034,Menoufia,Data Science,Female,20,21.2,30.1,4.9,3,4,Yes,Walk,0,Running,80.4
+ITI-1185,Menoufia,Embedded Systems,Female,23,17.2,29.5,6.4,5,4,Yes,Metro,2,Football,87.9
+ITI-1143,Mansoura,UI/UX,Female,24,8.8,39.9,5.9,2,3,Yes,Metro,3,Football,74.3
+ITI-1198,Mansoura,UI/UX,Female,23,13.7,13.7,7.0,2,4,No,Bus,1,Football,71.1
+ITI-1038,Cairo,Embedded Systems,Male,25,12.4,71.6,6.6,3,3,Yes,Car,1,Basketball,74.3
+ITI-1017,Cairo,Cyber Security,Male,23,21.5,59.6,8.5,8,3,Yes,Walk,0,none,85.9
+ITI-1076,Mansoura,cyber security,Male,29,6.8,17.0,6.6,4,4,Yes,Bus,0,No sport,65.4
+ITI-1149,Assiut,Web Development,Female,25,18.1,44.5,7.6,7,4,Yes,Bus,1,,75.7
+ITI-1011,Menoufia,Data Science,Female,23,15.6,22.4,6.5,2,4,Yes,Car,0,,78.1
+ITI-1234,Menoufia,Data Science,Male,23,,39.3,7.6,3,4,No,Metro,1,Football,74.8
+ITI-1067,Menoufia,UI/UX,Female,22,18.1,59.3,8.3,5,2,Yes,Bus,2,Football,83.8
+ITI-1254,Assiut,Cyber Security,Female,24,16.8,41.4,8.6,2,3,Yes,car ,0,Football,82.6
+ITI-1226,Alexandria,Web Development,Female,29,14.8,27.2,6.0,1,4,Yes,Car,1,,75.2
+ITI-1183,Mansoura,Web Development,Male,27,23.8,32.6,6.1,8,2,Yes,Walk,0,,93.3
+ITI-1074,Alexandria,Data Science,Male,24,19.4,12.8,8.8,2,5,Yes,Metro,0,No sport,90.1
+ITI-1019,Cairo,Data Science,MALE,23,14.7,54.8,5.7,2,3,Yes,Metro,0,No sport,77.9
+ITI-1102,Cairo, UI/UX ,Female,24,13.1,25.1,4.6,1,4,Yes,Microbus,0,none,68.4
+ITI-1196,Cairo,Embedded Systems,Male,21,21.2,16.1,8.9,4,3,Yes,Microbus,1,,"65,3"
+ITI-1113,Cairo,Cyber Security,Female,21,20.4,120.2,8.2,5,2,NO,Bus,0,Football,80.2
+ITI-1171,Mansoura,Data Science,Male,21,10.5,79.7,9.1,2,5,No,Metro,0,Basketball,"57,6"
+ITI-1087,Menoufia,UI/UX,Female,20,16.8,29.1,6.8,1,2,Yes,Walk,0,Football,73.5
+ITI-1056,Cairo,Data Science,Male,21,23.7,37.9,5.9,4,5,Yes,Microbus,0,Basketball,90.5
+ITI-1098,Menoufia,Web Development,Male,21,15.1,53.8,9.3,2,4,No,Bus,1,Basketball,150
+ITI-1201,cairo,UI/UX,Female,23,11.4,16.6,6.0,3,3,No,Bus,0,Football,72.5
+ITI-1039,Alexandria,Embedded Systems,Male,20,11.3,27.9,7.9,4,4,Yes,Car,0,Running,75.3
+ ITI-1155 ,Menoufia,Cyber Security,F,23,15.6,20.2,6.6,2,5,Yes,Car,3,Volleyball,72.4
+ITI-1085,Cairo,Data Science,Male,25,25.0,31.4,5.8,3,2,No,Microbus,0,No sport,85.2
+ITI-1252,Cairo,Cyber Security,Female,22,17.9,87.2,6.7,6,3,Yes,Microbus,0,Running,92.7
+ ITI-1093 ,Cairo,Data Science,Male,27,19.5,69.4,6.7,3,6,Yes,Bus,2,Football,82.1
+ITI-1202,Cairo,Web Development,Male,22,16.8,27.7,7.8,5,2,Yes,Bus,0,Football,91.3
+ITI-1127,CAIRO,Web Development,Female,23,17.6,23.1,6.9,2,5,Yes,Metro,0,No sport,80.5
+ITI-1125,Assiut,Data Science,Male,23,18.5,15.6,8.9,2,5,Yes,Car,0,Volleyball,80.2
+ITI-1079,Alexandria,Embedded Systems,Male,23,23.6,21.1,7.8,2,5,No,Car,0,Football,84.3
+ITI-1182,Alexandria,Data Science,Male,26,15.5,68.8,8.5,3,2,Yes,Bus,1,Volleyball,84.5
+ITI-1112,Assiut,Web Development,MALE,21,20.3,50 min,5.3,2,4,Yes,Bus,0,,77.7
+ITI-1230,Cairo,Embedded Systems,Male,24,20.9,55.7,8.1,3,5,Yes,Bus,0,Football,82.5
+ ITI-1259 ,Menoufia,Data Science,Male,28,9.3,26.0,6.3,1,2,Yes,Metro,4,Football,58.5
+ITI-1032,Cairo,Embedded Systems,M,23,20.5,62.9,5.1,3,5,Yes,Microbus,2,Volleyball,84.6
+ITI-1211,alexandria,Web Development,Female,25,13.1,10.1,6.0,0,5,Yes,Car,0,Running,77.9
+ITI-1194,Alexandria,Web Development,Male,26,8.9,63.3,7.2,3,2,No,Microbus,1,Swimming,72.7
+ITI-1156,Cairo,Data Science,Male,25,18.3,43.8,6.0,6,2,Yes,Bus,1,Football,150
+ITI-1070,Mansoura,UI/UX,Male,26,18.8,32.6,25,1,5,Yes,Microbus,2,Football,78.9
+ITI-1003,Assiut,Data Science,Male,-1,18.6,25.9,6.9,2,3,Yes,Car,0,Swimming,93.5
+ITI-1077,Cairo,Data Science,Male,unknown,16.3,62.4,4.4,6,5,Yes,Metro,0,Football,71.7
+ITI-1148,Cairo,Data Science,Male,21,9.8,176.0,7.6,4,5,Yes,Bus,0,Football,70.1
+ITI-1140,Mansoura,Web Development,Female,20,23.4,28.5,6.6,2,2,Yes,Metro,0,Running,83.4
+ITI-1144,Alexandria,UI/UX,Male,27,11.6,,7.2,3,5,Yes,bus,0,Volleyball,78.5
+ITI-1097,Cairo,Data Science,Male,25,14.4,67 min,7.6,7,5,No,Car,0,Basketball,75.4
+ITI-1109,Menoufia,Data Science,Male,23,9.5,43.9,6.6,2,5,Yes,Microbus,1,Basketball,77.0
+ITI-1141,Mansoura,Cyber Security,Male,22,3.2,34.3,4.7,2,3,Yes,Car,3,Running,66.2
+ITI-1174,Cairo,Embedded Systems,Male,23,9.5,18.0,7.6,3,3,Yes,Bus,0,Running,74.4
+ITI-1068,Menoufia,Data Science,Male,25,16.6,44.1,6.6,3,5,No,Bus,0,Football,79.5
+ITI-1075,Alexandria,UI/UX,Female,24,17.9,45.4,6.0,1,2,No,Car,2,Volleyball,70.9
+ITI-1118,Alexandria,Cyber Security,Male,21,21.7,13.1,7.8,6,3,Yes,Bus,0,Basketball,90.2
+ITI-1030,Cairo,Cyber Security,Male,24,14.0,30.2,6.5,4,3,Yes,Metro,1,Football,72.9
+ITI-1216,cairo,Data Science,Male,27,22.2,70.9,6.5,4,4,Yes,Microbus,2,Football,87.9
+ITI-1193,Cairo,Data Science,Female,24,17.4,66.8,8.0,3,3,Yes,Metro,0,Running,86.3
+ITI-1235,Cairo,Cyber Security,Male,25,9.1,38.9,6.6,1,2,Yes,Car,2,,74.3
+ITI-1178,Cairo,Cyber Security,Female,23,24.2,74.4,7.1,3,5,1,Microbus,0,Volleyball,"80,2"
+ITI-1062,Mansoura,Embedded Systems,Female,23,14.0,23.3,7.6,4,5,Yes,Walk,0,Basketball,76.7
+ITI-1006,Cairo,Data Science,Female,25,16.1,87.6,7.4,0,2,No,Car,0,Basketball,69.7
+ITI-1057,Mansoura,Embedded Systems,Male,23,23.3 hours,33.2,6.0,1,2,Yes,bus,0,Football,61.5
+ITI-1017,Cairo,Cyber Security,Male,23,21.5,59.6,8.5,8,3,Yes,Walk,0,,85.9
+ITI-1176,Assiut,Embedded Systems,Male,24,15.6,34.3,6.9,2,4,Yes,Car,2,none,82.6
+ITI-1165,Alexandria,UI/UX,Female,20,17.8,15.2,,5,4,No,Bus,3,Swimming,86.5
+ITI-1066,Cairo,Data Science,Male,20,16.1,55.7,5.9,0,4,No,Walk,0,,76.6
+ITI-1158,Cairo,Web Development,Male,23,12.1,53.6,6.7,3,3,No,Car,0,Running,69.1
+ITI-1086,Cairo,Embedded Systems,Female,20,21.2,200.0,7.9,3,5,Yes,Bus,0,Swimming,83.7
+ITI-1115,Cairo,Cyber Security,female,23,25.2,25.6,5.3,1,3,Yes,Car,1,Football,87.0
+ITI-1246,Mansoura,Data Science,Male,25,15.1,48.0,25,1,4,No,Metro,1,Football,86.7
+ITI-1173,Cairo,Data Science,Female,25,19.0,132.0,8.9,3,4,No,Metro,4,Running,81.8
+ITI-1032,Cairo,Embedded Systems,M,23,20.5,62.9,5.1,3,5,Yes,Microbus,2,Volleyball,84.6
+ITI-1013,Cairo,Web Development,Female,26,,9.0,6.8,4,2,Yes,Car,2,,67.3
+ITI-1036,Alexandria,Cyber Security,Male,26,20.7,11.8,7.2,3,3,Yes,Bus,0,Football,83.6
+ITI-1029,Cairo,Web Development,Female,20,13.8,43 min,0,4,3,Yes,Bus,0,,68.2
+ITI-1133,Alexandria,Embedded Systems,Male,25,10.4,39.5,6.9,2,4,Yes,Bus,0,Basketball,70.9
+ITI-1052,Alexandria,Web Development,Female,22,15.0,68.2,8.1,2,2,Yes,Metro,3,none,75.2
+ITI-1096,Menoufia,Data Science,Male,27,24.8,29.3,7.0,4,4,Yes,Microbus,0,-,93.0
+ITI-1168,Alexandria,UI/UX,Male,25,6.8,62.0,5.6,3,5,Yes,Metro,0,Running,59.1
+ITI-1180,Menoufia,WEB DEVELOPMENT,Female,28,18.8,29.5,6.4,0,4,Yes,Metro,-2,Basketball,75.7
+ITI-1042,cairo,Data Science,Male,27,21.9,22.8,6.7,5,5,Yes,Bus,0,Basketball,87.7
+ITI-1247,Cairo,UI/UX,Male,22,20.2,64.1,6.7,5,4,Yes,Metro,0,Running,74.9
+ITI-1177,Alexandria,Data Science,Male,23,6.8 hours,18.1,7.9,6,5,Yes,Bus,0,Basketball,83.4
+ITI-1137,Mansoura,Data Science,Female,20,14.3,5.4,6.8,2,5,yes,Car,2,Basketball,67.3
+ITI-1027,Mansoura,Cyber Security,Male,22,18.2,16.1,5.7,5,4,Yes,Car,0,Running,72.9
+ITI-1214,Cairo,Web Development,Male,22,16.2,13.4,8.1,2,,Yes,Metro,0,Football,98.8
+ITI-1142,Assiut,Web Development,Female,23,12.7,30.4,5.3,4,4,Yes,Car,0,Swimming,68.7
+ITI-1160,Alexandria,Cyber Security,Male,23,18.1,43.1,8.7,8,2,Yes,Bus,0,No sport,88.1
+ITI-1001,Menoufia,Cyber Security,Female,21,12.5,15.8,8.3,2,4,Yes,Metro,1,Volleyball,75.8
+ ITI-1232 ,Alexandria,cyber security,M,25,12.8,52.2,6.4,2,3,Yes,Bus,3,Swimming,74.0
+ITI-1101,Cairo,Data Science,Female,24,25.8,256.5,6.0,7,4,Yes,Car,0,Volleyball,99.0
+ITI-1242,Cairo,Data Science,F,22,200,37.2,7.6,1,5,Yes,Bus,0,Football,88.3
+ITI-1203,Alexandria,Web Development,Male,26,21.0,48.0,3.8,1,3,Yes,Microbus,0,Running,85.2
+ITI-1099,Cairo,Cyber Security,Male,21,12.9,29.6,6.9,3,4,Yes,Car,3,Football,84.2
+ITI-1037,Cairo,Web Development,Female,25,17.4,26.1,6.4,2,5,No,Bus,0,Football,87.7
+ ITI-1062 ,Mansoura,Embedded Systems,Female,23,14.0,23.3,7.6,4,5,Yes,Walk,0,Basketball,76.7
+ITI-1151,Cairo,UI/UX,Female,25,5.1,154.0,6.6,2,4,Yes,Metro,0,Swimming,50.4
+ITI-1213,Mansoura,Embedded Systems,Male,25,16.6,11.1,5.4,1,3,No,Bus,0,Football,
+ITI-1257,Cairo,Web Development,Male,25,19.2,39.3,6.8,3,3,Yes,Bus,4,Football,85.6
+ITI-1012,Cairo,Data Science,Female,26,23.1,36.5,5.4,0,4,No,Microbus,0,Football,92.3
+ITI-1096,Menoufia,Data Science,Male,27,24.8,29.3,7.0,5,4,Yes,Microbus,0,-,93.0
+ITI-1231,Cairo,UI/UX,Female,25,16.7,126.7,8.3,2,4,No,Bus,2,Football,69.2
+ITI-1028,Alexandria,Web Development,Male,25,20.5,,6.4,3,3,Yes,Bus,1,Running,95.6
+ITI-1179,Alexandria,Embedded Systems,Female,28,30.8,19.5,0,0,4,Yes,Metro,0,Swimming,100.0
+ ITI-1005 ,Assiut,Web Development,Female,23,22.9,36.9,6.4,3,3,Yes,Car,0,Swimming,86.4
+ITI-1123,Mansoura,Web Development,Male,21,9.8,9.8,7.3,6,5,Yes,Car,0,Football,91.8
+ITI-1033,Mansoura,Cyber Security,Female,23,16.5,66.6,6.7,6,4,Yes,Metro,0,Running,77.0
+ITI-1205,Assiut,Web Development,Female,23,11.4,20.9,7.0,5,2,Yes,Metro,0,Basketball,74.6
+ITI-1163,Cairo,Embedded Systems,Female,23,17.9,18.7,7.2,4,5,No,Bus,0,Football,73.4
+ITI-1169,Alexandria,Data Science,Male,23,15.3,26.6,4.0,5,4,No,Metro,0,Football,79.4
+ITI-1207,Mansoura,Data Science,Male,24,23.5,27.0,5.6,2,5,Yes,Metro,0,Running,94.8
+ITI-1139,Menoufia,Data Science,female,24,21.9,23.0,7.3,2,,No,Bus,0,Football,97.3
+ITI-1063,Mansoura,Embedded Systems,Male,21,24.4,190.2,6.3,5,2,No,Walk,0,Running,85.6
+ITI-1136,Assiut,Web Development,Female,24,12.9,24.1,6.6,4,5,Yes,Metro,0,Swimming,81.1
+ITI-1129,Mansoura,Embedded Systems,Female,23,12.6,21.0,7.0,2,3,Yes,Walk,0,Football,77.6
+ITI-1244,Cairo,Web Development,Female,20,22.6,97.9,6.7,1,4,Yes,Microbus,0,Football,80.7
+ITI-1244,Cairo,Web Development,Female,20,22.6,97.9,6.7,1,4,Yes,Microbus,0,Football,80.7
+ITI-1071,Menoufia,Cyber Security,Male,22,19.3,209.8,7.0,6,3,Yes,Bus,0,No sport,
+ITI-1223,Cairo,Cyber Security,Female,26,9.3,54.1,7.0,3,3,Yes,Metro,0,Running,
+ITI-1065,Alexandria,Data Science,Female,25,23.8,25.9,5.0,2,3,Yes,Car,0,Running,80.3
+ITI-1045,Alexandria,Web Development,Male,24,19.5,36.4,7.3,2,3,Yes,Metro,0,No sport,88.2
+ITI-1187,Assiut,Web Development,Female,23,19.6,26.1,7.2,4,4,Yes,Car,0,,86.9
+ITI-1157,Alexandria,Data Science,Male,26,23.4,61.7,6.7,1,4,Yes,Bus,0,No sport,95.6
+ITI-1041,Alexandria,Data Science,Female,24,8.1,35 min,6.2,4,,Yes,Bus,0,Football,69.2
+ITI-1124,Cairo,Embedded Systems,Male,25,20.8,9.8,9.3,2,3,Yes,Walk,1,Football,99.9
+ITI-1154,Assiut,UI/UX,M,22,4.5,11.0,6.6,2,3,Yes,Car,0,,67.4
+ITI-1024,Mansoura,Data Science,Male,28,14.4,29.4,6.4,2,3,Yes,Metro,1,Basketball,83.9
+ITI-1218,Cairo,UI/UX,Male,26,11.6,67.7,6.2,4,5,Yes,Metro,1,Swimming,80.0
+ITI-1214,Cairo,Web Development,Male,22,16.2,13.4,8.1,2,,Yes,Metro,0,Football,98.8
+ITI-1082,Assiut,Cyber Security,Female,23,15.6,8.4,7.3,1,5,Yes,Car,1,Football,83.2
+ITI-1040,CAIRO,UI/UX,Male,22,16.5,43.3,7.6,2,3,Yes,Car,1,Swimming,79.3
+ITI-1241,Assiut,Embedded Systems,Female,24,19.7,37.6,6.4,0,4,Yes,Car,0,Basketball,85.9
+ITI-1048,Cairo,Data Science,Female,22,23.2,33.0,9.5,3,3,Yes,Bus,0,,100.0
+ITI-1095,Assiut,Data Science,Male,22,15.7,11.1,,6,5,Yes,Bus,1,Basketball,78.1
+ITI-1221,Mansoura,UI/UX,Male,20,6.7,44.8,6.3,1,3,Yes,Metro,2,Football,67.2
+ITI-1237,Assiut,Web Development,Male,22,5.2,6.2,7.6,3,7,No,Microbus,0,Basketball,54.9
+ITI-1162,Menoufia,Data Science,Female,28,3.1,19.7,5.0,3,7,Yes,Bus,1,Swimming,77.4
+ITI-1044,Mansoura,Data Science,Male,22,21.0,21.1,6.1,6,4,Yes,Metro,1,Swimming,88.2
+ITI-1146,Cairo,Cyber Security,Male,24,18.4,70.6,,1,2,No,Car,0,Swimming,81.4
+ITI-1191,Cairo,UI/UX,female,21,12.5,37.2,4.2,7,5,Yes,Bus,0,Football,71.7
+ITI-1212,Mansoura,Data Science,Female,23,,60.3,6.9,2,5,Yes,Car,0,Basketball,
+ITI-1004,Cairo,Web Development,Female,23,19.7,105.8,7.0,2,3,Yes,Microbus,0,,78.5
+ITI-1106,Cairo,Data Science,Male,23,missing,46.4,8.0,5,3,Yes,bus,1,Swimming,85.0
+ITI-1054,Assiut,Data Science,Male,28,27.4,,7.5,3,4,Yes,Bus,1,Volleyball,100.0
+ITI-1134,Menoufia,Web Development,Female,20,21.0,15.0,7.3,6,3,Yes,Microbus,2,none,77.0
+ITI-1002,Mansoura,Embedded Systems,Female,20,15.7,10.9,7.0,5,4,Yes,Car,0,Football,79.7
+ITI-1224,Mansoura,Data Science,Female,23,,9.4,5.9,0,4,Yes,Metro,0,Football,78.6
+ITI-1104,Cairo,Embedded Systems,Male,26,14.2,121.4,5.1,4,2,No,Car,1,Swimming,68.5
+ITI-1050,Menoufia,Data Science,Male,23,22.8,16.1,7.5,0,3,No,Bus,2,Swimming,84.1
+ITI-1164,Alexandria,Cyber Security,Male,5,20.2,104.5,7.1,4,3,Yes,Microbus,3,Football,81.1
+ITI-1081,Cairo,Web Development,Female,24,11.0 hours,17.5,5.8,3,2,Yes,Bus,0,Volleyball,87.0
+ITI-1206,Menoufia,Cyber Security,Female,21,11.5,33.0,5.9,6,4,Yes,Car,0,Football,64.0
+ITI-1035,Alexandria,Data  Science,Male,25,27.4,66.4,7.1,4,4,Yes,Walk,0,,99.8
+ITI-1238,Alexandria,Data Science,Male,24,16.1,57.8,5.4,0,3,No,Microbus,1,Football,72.2
+ITI-1008,Mansoura,Data Science,Female,23,7.0,12.1,4.5,4,2,Yes,Microbus,0,Basketball,69.6
+ITI-1172,Mansoura,Cyber Security,Male,24,11.6,46 min,6.5,2,4,Yes,Car,0,none,76.9
+ITI-1199,Alexandria,UI/UX,Male,24,17.0,238.9,5.5,3,4,Yes,Bus,3,Football,76.1
+ITI-1243,Mansoura,Data Science,Male,23,16.7,31.3,7.1,3,4,Yes,Bus,0,Running,69.8
+ITI-1111,Mansoura,Cyber Security,Male,28,,18.8,5.4,2,2,Yes,Metro,0,Football,88.1
+ITI-1092,Cairo,data science,Female,21,16.8,,7.0,2,3,Yes,Walk,1,No sport,71.2
+ITI-1084,Menoufia,Cyber Security,Male,21,12.8,23.7,6.4,4,5,Yes,Bus,0,Football,73.7
+ITI-1130,Assiut,UI/UX,Male,23,12.3,17.4,5.8,3,3,Yes,Microbus,2,No sport,81.7
+ITI-1053,Alexandria,Data Science,Female,24,17.8,25.1,6.9,2,4,No,Metro,0,Running,83.1
+ITI-1090,Mansoura,Data Science,Female,23,17.8,28.4,7.5,2,3,Yes,Car,0,,75.4
+ITI-1009,alexandria,Embedded Systems,Male,-1,16.7,14.7,5.4,6,5,Yes,Metro,0,Football,87.5
+ITI-1014,Mansoura,Web Development,Female,24,11.7,32.9,9.0,4,4,Yes,Bus,1,Running,69.3
+ITI-1060,Mansoura,UI/UX,Male,20,17.1,17.6,8.9,5,2,Y,Bus,2,,94.9
+ITI-1249,Mansoura,Web Development,Male,27,15.2,13.1,,5,5,Yes,Metro,2,Basketball,86.3
+ITI-1132,Cairo,Embedded Systems,Male,26,23.3,191.9,6.1,7,4,Yes,Microbus,2,Football,74.3
+ITI-1018,Cairo, Web Development ,Female,25,16.4,39.2,6.7,3,2,Yes,Walk,2,Running,86.1
+ITI-1167,Assiut,Web Development,Female,24,21.6 hours,21.3,7.5,4,3,Yes,Microbus,1,Football,66.9
+ITI-1073,Assiut,Data Science,Male,22,missing,58.4,7.1,4,5,Yes,Car,0,Swimming,75.4
+ITI-1255,Cairo,Data Science,Male,25,13.4,79.3,6.3,3,4,Yes,Metro,1,,77.8
+ITI-1135,Alexandria,Web Development,Male,24,17.9,30.2,7.4,3,4,Yes,Metro,0,Basketball,78.6
+ITI-1250,alexandria,Cyber Security,Male,22,14.9,16.4,7.9,2,2,Yes,Metro,2,Basketball,75.8
+ITI-1229,Cairo,Web Development,Female,30,20.0,62.8,5.3,2,3,No,Metro,1,Swimming,72.6
+ITI-1260,Cairo,Web Development,Male,21,16.1,46.8,6.2,4,4,Yes,Microbus,2,Football,68.4
+ITI-1064,Menoufia,Web Development,Male,24,21.8,105.1,7.0,4,4,No,Metro,0,Swimming,87.0
+ITI-1055,Menoufia,UI/UX,Female,24,8.0,16.8,6.8,2,4,Yes,Walk,3,-,73.3
+ITI-1108,Mansoura,Web Development,Female,20,16.8,25.0,6.0,5,,No,Bus,0,Football,77.0
+ITI-1051,Alexandria,Web Development,Male,28,8.7,63.8,,4,3,No,Car,0,Basketball,73.3
+ITI-1239,Cairo,Data Science,Male,21,20.1,65.5,6.8,2,4,Yes,Microbus,0,Swimming,92.7
+ITI-1175,Cairo,Web Development,Female,25,20.2,42.6,,6,2,Yes,Microbus,2,No sport,76.6
+ITI-1240,Menoufia, Web Development ,Male,,10.2,23.1,,2,4,Yes,Walk,0,Football,74.6
+ITI-1190,Assiut,Data Science,Male,24,15.1,6.3,7.5,3,4,Yes,Car,0,Football,
+ITI-1015,Alexandria,Web Development,Male,20,2.0,25.2,6.9,1,4,Yes,Bus,0,Football,53.3
+ITI-1208,Cairo,Web Development,Male,24,13.4,7.2,7.3,4,3,Yes,Metro,2,Football,70.9
+ITI-1256,Assiut,Cyber Security,Male,25,18.5,26.9,6.8,2,4,No,Metro,1,Football,86.8
+ITI-1220,Assiut,Cyber Security,M,23,15.1,36.6,6.8,3,4,Yes,Metro,0,Swimming,85.3
+ITI-1170,Cairo,UI/UX,Male,22,12.2,44.8,8.5,4,4,Yes,Bus,2,Football,77.1
+ITI-1059,Alexandria,Web Development,M,21,14.5,13.2,9.5,3,3,Yes,Microbus,3,Football,"92,3"
+ITI-1219,Cairo,Cyber Security,Male,21,16.1,92.0,,1,5,Yes,Bus,1,Running,70.0
+ITI-1049,Cairo,Data Science,Female,21,22.8,142.3,7.1,2,4,No,Walk,1,Basketball,85.3
+ITI-1089,Alexandria,Web Development,Male,20,20.5,25.9,8.2,5,3,Yes,Bus,0,Swimming,94.1
+ ITI-1236 ,Alexandria,Web Development,Female,26,19.1,34.8,7.6,4,3,Yes,Walk,0,Running,83.7
+ITI-1022,Alexandria,Web Development,Female,22,19.5,110.8,5.9,8,4,Yes,Bus,2,Basketball,70.7
+ITI-1058,Assiut,Embedded Systems,Male,24,15.2,24.0,8.7,2,?,Yes,Bus,4,none,84.9
+ITI-1204,Cairo,Cyber Security,Male,21,26.4,50.4,,4,2,Yes,Bus,2,Basketball,100.0
+ITI-1161,Cairo,Web Development,Female,24,20.8,33.1,7.0,0,4,Yes,Bus,0,Basketball,83.6
+ITI-1181,Assiut,Data Science,Male,22,11.3,11.8,7.1,7,4,Yes,Microbus,1,Football,82.1
+ITI-1188,Cairo,web development,Female,27,27.8,38.1,6.5,2,4,Yes,Metro,2,Running,100.0
+ITI-1192,Cairo,UI/UX,Female,unknown,21.1,,,4,3,Yes,Bus,1,Basketball,93.3
+ITI-1258,Cairo,Web Development,Female,21,20.7,36.3,4.5,4,4,Yes,Car,1,Football,88.8
+ITI-1150,Alexandria,UI/UX,Male,26,17.0,19.4,5.6,2,3,No,Bus,0,Football,75.6
+ITI-1131,Cairo,Cyber Security,Male,23,23.1,89.2,6.4,3,2,Yes,Bus,1,,100.0
+ITI-1152,Alexandria,UI/UX,Female,25,7.5,95.1,9.0,3,4,No,Car,0,No sport,62.5
+ITI-1100,Cairo,Embedded Systems,Female,22,15.3,17.8,5.5,2,2,Yes,Walk,0,Volleyball,74.4
+ITI-1088,Assiut,Embedded Systems,Female,,22.3,70 min,6.7,2,2,Yes,Metro,0,Swimming,84.4
+ITI-1215,Menoufia,Cyber Security,Male,20,7.5,58.0,7.0,4,?,Yes,Bus,1,Volleyball,75.8
+ITI-1122,Menoufia,UI/UX,Male,28,16.4,25.5,5.2,1,4,No,Bus,1,No sport,65.6
+ITI-1103,Alexandria, Embedded Systems ,Male,21,17.4,64.1,8.5,4,4,Yes,Car,0,Basketball,81.9
+ITI-1021,Cairo,web development,Male,23,17.1,46.4,8.9,1,4,No,Bus,3,Football,89.4
+ITI-1189,Mansoura,Data Science,Male,26,12.9,,7.0,2,2,NO,Microbus,1,Basketball,76.5
+ITI-1072,Mansoura,Embedded Systems,Male,25,24.7,34.1,8.5,4,5,Yes,METRO,3,Running,96.4
+ITI-1107,Assiut,Data Science,Female,24,-5,29.8,8.4,2,3,Yes,Bus,0,Football,85.4
+ITI-1103,Alexandria, Embedded Systems ,Male,21,17.4,64.1,8.5,3,4,Yes,Car,0,Basketball,81.9
