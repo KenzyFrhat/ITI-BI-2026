@@ -101,14 +101,13 @@ Deliver a **one-page recommendation** covering:
 
 ## 👥 Team Members
 
-  Part    Participant          GitHub
-  ------- -------------------- ------------------
-  A & B   **Kareem Dallash**   🔗 [Add link](#)
-  C       **Karim Hossam**     🔗 [Add link](#)
-  D       **Kenzy Frhat**      🔗 [Add link](#)
-  E & F   **Judy Amr**         🔗 [Add link](#)
+| Part  | Participant        | GitHub                                               |
+| ----- | ------------------ | ---------------------------------------------------- |
+| A & B | **Kareem Dallash** | [GitHub Profile](#)                                  |
+| C     | **Karim Hossam**   | [GitHub Profile](https://github.com/kareemhossam614) |
+| D     | **Kenzy Frhat**    | [GitHub Profile](https://github.com/KenzyFrhat)                                  |
+| E & F | **Judy Amr**       | [GitHub Profile](https://github.com/judyamr11)       |
 
-> 💡 Replace `#` with each participant's GitHub profile or project link.
 
 ------------------------------------------------------------------------
 
