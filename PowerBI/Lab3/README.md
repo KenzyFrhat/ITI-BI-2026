@@ -22,11 +22,6 @@ This dashboard summarizes Kickstarter campaign performance and helps track fundi
 - **Measures:** total pledged, funding goal, success rate, number of campaigns.
 - **Visuals:** KPI cards, category comparison charts, time trend charts, and status breakdowns.
 
-## Setup
-1. Download the dataset from Kaggle.
-2. Open the Power BI report file for Lab 3.
-3. If prompted, update data source paths and refresh the dataset.
-
 ## Limitations
 - Results depend on the quality and coverage of the source dataset.
 - Currency, dates, and campaign status values may require normalization for cross-country comparisons.
