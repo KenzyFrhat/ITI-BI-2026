@@ -5,9 +5,9 @@ This dashboard summarizes Kickstarter campaign performance and helps track fundi
 
 ## Screenshots
 
-![image3](image3)
-![image2](image2)
-![image1](image1)
+![image3](./photos/Demo/First_Page.png)
+![image2](./photos/Demo/Second_Page.png)
+![image1](./photos/Demo/Data_Model.png)
 
 ## Data source
 - **Dataset:** Kickstarter Projects (Kaggle)
